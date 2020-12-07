@@ -52,14 +52,7 @@ function keyPressed(){
 		Matter.Body.applyForce(ball.body, ball.body.position, {x: 80, y: -80})
 	}
 }
-/*function keyPressed() {
-	if (keyCode === UP_ARROW) {
 
-	  Matter.Body.applyForce(paperObject.body,paperObject.body.position,{x:130,y:-145});
-
-  
-	}
-}*/
 
 
 
